@@ -14,6 +14,16 @@ entries:
   transmissionhelm:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-08-28T18:38:41.062986905Z"
+    description: A Helm chart for Kubernetes
+    digest: 539a5c70de4c325cde1c3db29fbca45ea1208072311a3c6f0717f4ceb956fb0d
+    name: transmissionhelm
+    type: application
+    urls:
+    - https://github.com/VMaievskyi/homeHelm/releases/download/transmissionhelm-0.2.0/transmissionhelm-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-08-26T21:06:28.047588466Z"
     description: A Helm chart for Kubernetes
     digest: 470303e470c4a5df48b173f062963e22484091a45eb229dd9e7118fbe704cd0f
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/VMaievskyi/homeHelm/releases/download/transmissionhelm-0.1.0/transmissionhelm-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-26T21:06:28.047593866Z"
+generated: "2022-08-28T18:38:41.063015701Z"
