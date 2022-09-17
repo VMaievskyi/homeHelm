@@ -39,6 +39,7 @@ securityContext: {}
 service:
   type: NodePort
   port: 9091
+  nodePort: 30000
 
 
 mounts:
