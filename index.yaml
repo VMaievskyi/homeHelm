@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   torrent-bot-helm:
   - apiVersion: v2
+    appVersion: 1.18.0
+    created: "2022-10-31T20:42:38.452842802Z"
+    description: A Helm chart for Kubernetes
+    digest: 0b68606466a4e5edb936143a12f585f21785d08cfd97da65f0528ed4f6c3ddaf
+    name: torrent-bot-helm
+    type: application
+    urls:
+    - https://github.com/VMaievskyi/homeHelm/releases/download/torrent-bot-helm-0.6.0/torrent-bot-helm-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
     appVersion: 1.17.0
     created: "2022-10-29T21:47:22.034865595Z"
     description: A Helm chart for Kubernetes
@@ -122,4 +132,4 @@ entries:
     urls:
     - https://github.com/VMaievskyi/homeHelm/releases/download/transmissionhelm-0.1.0/transmissionhelm-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-29T21:47:22.034920095Z"
+generated: "2022-10-31T20:42:38.452871902Z"
